@@ -50,7 +50,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jenalul/Jenalul/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JenaCarry/JenaCarry/output/snake.svg" alt="Snake animation" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=footer" />
